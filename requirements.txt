@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+xgboost
+praat-parselmouth
+joblib
+streamlit
+streamlit-mic-recorder
