@@ -30,7 +30,7 @@ If you use this project or the data, please cite the original authors:
 ##  Installation & Setup (IMPORTANT)
 
 ### 1. Clone the repository
-    git clone https://github.com/24cemin/parkinson-detection.git
+    git clone https://github.com/24cemin/parkinson-detection-with-voice.git
     cd parkinson-detection
 
 ### 2. Install dependencies
